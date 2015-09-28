@@ -1,0 +1,33 @@
+h3  {
+	font-family:"Copperplate Gothic Light";
+     }
+
+h2  {
+      font-family: "Algerian";
+     }
+p   {
+	background-color:#eeeeee;
+	font-family: "Lucida HAndwriting";
+	font size= 30%;
+    }
+
+body {
+	background-color : #eeeeee;
+     }
+#nav {
+    font-family: "Lucida Handwriting";
+    line-height:30px;
+    height:650px;
+    width:200px;
+    float:left;
+    padding:5px;	      
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+span {
+	font-family: "Castellar";
+	font-size: 100%;
+      }
